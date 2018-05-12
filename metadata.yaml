@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33521
     wikipedia: http://en.wikipedia.org/wiki/J._Horace_McFarland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28764#Getting-Acquainted-with-the-Trees
 gutenberg_bookshelf: Botany
 gutenberg_issued: '2009-05-12'
 gutenberg_type: Text
