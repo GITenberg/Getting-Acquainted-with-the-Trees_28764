@@ -1,0 +1,29 @@
+_repo: Getting-Acquainted-with-the-Trees_28764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McFarland, J. Horace (John Horace)
+    alias: McFarland, John Horace
+    birthdate: 1859
+    deathdate: 1948
+    gutenberg_agent_id: '33521'
+    url: http://www.gutenberg.org/2009/agents/33521
+    wikipedia: http://en.wikipedia.org/wiki/J._Horace_McFarland
+description: ''
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2009-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees'
+- !lcc 'QK'
+title: Getting Acquainted with the Trees
+url: http://www.gutenberg.org/ebooks/28764
